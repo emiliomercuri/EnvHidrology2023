@@ -1,5 +1,6 @@
 # TEA018 - Hidrologia Ambiental
-Material da disciplina de Hidrologia - Engenharia Ambiental UFPR
+Material da disciplina de Hidrologia Ambiental - Curso de Engenharia Ambiental 
+Universidade Federal do Paraná (UFPR)
 
 Página da disciplina: http://www.lactea.ufpr.br/people/mercuri/tea018
 
